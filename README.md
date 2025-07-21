@@ -5,5 +5,5 @@ Proyecto de ejemplo con Next.js y Tailwind CSS para mostrar una landing page pro
 ## Scripts
 
 - `npm run dev` - Levanta el entorno de desarrollo.
-- `npm run build` - Compila la aplicación y exporta los archivos estáticos en `public/`.
+- `npm run build` - Compila la aplicación y exporta los archivos estáticos en `out/`.
 - `npm start` - Inicia la versión de producción.
